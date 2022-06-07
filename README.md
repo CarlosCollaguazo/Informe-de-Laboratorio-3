@@ -36,7 +36,7 @@ Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para
 
 # Video
 
-https://www.youtube.com/watch?v=L2xYfYlm9yA&t=1s
+https://youtu.be/-05jB1Plp4g
 
 # Conclusiones
 
