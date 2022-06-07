@@ -42,3 +42,6 @@ https://youtu.be/-05jB1Plp4g
 
 
 # Bibliografía
+
+* Maquinas y Herramientas. (31 de Mayo de 2022). Maquinas y Herramientas. Obtenido de Maquinas y Herramientas: https://www.demaquinasyherramientas.com/herramientas-de-medicion/introduccion-al-voltimetro
+* McAllister, W. (2017). El método del voltaje en los nodos (artículo). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method#:%7E:text=El%20m%C3%A9todo%20del%20voltaje%20en%20los%20nodos%20resuelve%20circuitos%20con,de%20Kirchhoff%20de%20la%20corriente.
