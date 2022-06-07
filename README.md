@@ -40,6 +40,9 @@ https://youtu.be/-05jB1Plp4g
 
 # Conclusiones
 
+* Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso de los diversos aparatos electrónicos que brindan ayuda para la medición de voltajes, corrientes y resistencias, además gracias a las unidades de medidas se pudo realizar de una mejor manera los cálculos manuales para conseguir lo antes resolver las incógnitas del laboratorio.
+* La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
+* La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas, para aplicar de manera adecuada según sea necesario.
 
 # Bibliografía
 
