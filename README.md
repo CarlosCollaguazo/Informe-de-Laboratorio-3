@@ -22,6 +22,7 @@ Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para
 
 # Explicación del problema
 
+![Company Organizational Chart](https://user-images.githubusercontent.com/105715717/172434720-fb79a8c5-9998-48a4-b43f-989e988f15f7.jpg)
 
 # Resultados
 
