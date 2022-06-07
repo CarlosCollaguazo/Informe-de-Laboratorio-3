@@ -16,3 +16,19 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 Investigar conceptos básicos que muestran el uso adecuado de las leyes de Kirchhoff por análisis de nodos en circuitos mixtos.
 Hacer uso del simulador tinkercad para un mejor entendimiento sobre el montaje de circuitos eléctricos, mediante la utilización de materiales de laboratorios simulados por el mismo.
 Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
+# Marco teórico
+
+
+# Explicación del problema
+
+
+# Resultados
+
+
+# Video
+
+
+# Conclusiones
+
+
+# Bibliografía
