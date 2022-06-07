@@ -22,6 +22,10 @@ Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para
 
 # Explicación del problema
 
+2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/105715717/172435035-4ac246dc-9373-4624-9573-e54fb4c56f33.png)
+
 ![Company Organizational Chart](https://user-images.githubusercontent.com/105715717/172434720-fb79a8c5-9998-48a4-b43f-989e988f15f7.jpg)
 
 # Resultados
