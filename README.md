@@ -18,6 +18,7 @@ Hacer uso del simulador tinkercad para un mejor entendimiento sobre el montaje d
 Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
 # Marco teórico
 
+![image](https://user-images.githubusercontent.com/105675868/172430171-407d8f27-09fc-49ed-a2c0-89e0399e64fc.png)
 
 # Explicación del problema
 
