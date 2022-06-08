@@ -26,7 +26,9 @@ Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para
 
 ![image](https://user-images.githubusercontent.com/105715717/172435035-4ac246dc-9373-4624-9573-e54fb4c56f33.png)
 
-![image](https://user-images.githubusercontent.com/105715717/172435702-261d3815-6540-4541-bfcb-213709fcfb48.png)
+![image](https://user-images.githubusercontent.com/105675868/172504645-c2a01431-7218-46cd-b76c-8b7c9f480551.png)
+
+![image](https://user-images.githubusercontent.com/105675868/172504876-0e26f245-d5c5-48a6-bce7-6ed9ae9e156a.png)
 
 ![Company Organizational Chart](https://user-images.githubusercontent.com/105715717/172434720-fb79a8c5-9998-48a4-b43f-989e988f15f7.jpg)
 
