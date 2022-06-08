@@ -37,6 +37,9 @@ Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para
 
 ![image](https://user-images.githubusercontent.com/105715717/172505193-66336cfa-9f09-4367-a7fb-7d71b438a1cc.png)
 
+![image](https://user-images.githubusercontent.com/105715717/172505814-eee13ba3-c1f4-4fca-8cae-180fc4750661.png)
+
+
 # Video
 
 https://youtu.be/-05jB1Plp4g
